@@ -1,0 +1,1 @@
+Random forest, fitado no train data. WOE encoder pra binários, mediana pra missing numérico

@@ -1,0 +1,1 @@
+Random forest, fitado no train data. One hot encoder pra binários, mediana pra missing numérico
